@@ -8,6 +8,74 @@ Description: Sydney is a powerful business theme that provides a fast way for co
 Tags: two-columns,right-sidebar,custom-colors,custom-background,custom-header,custom-menu,featured-images,sticky-post,theme-options,threaded-comments,translation-ready
 Version: 1.42.1512665650
 Updated: 2017-12-07 16:54:10
-
+sdfads
 */
+
+.b {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.centered {
+    text-align: center;
+}
+
+li {
+    font-size: 200%;
+}
+
+p {
+   font-size: 200%;
+}
+
+hr {
+    border-color: black;
+}
+
+.col-md-4, .col-lg-4, .col-xl-4 {
+    background-color: gray;
+}
+
+h2.heading {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+p.italics {
+    font-style: italic;
+}
+
+.horizontal_dotted_line {
+    border-bottom: 1px dotted black;
+}
+
+.horizontal-line {
+    border-bottom: 1px solid black;
+}
+
+.sub-head {
+    text-transform: uppercase;
+    color: gray;
+}
+
+.location {
+    text-align: center;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.clear {
+    clear:both;
+}
+
+
 
